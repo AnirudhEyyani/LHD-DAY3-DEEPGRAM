@@ -1,0 +1,23 @@
+{
+  "name": "lhd-day3-deepgram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnirudhEyyani/LHD-DAY3-DEEPGRAM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnirudhEyyani/LHD-DAY3-DEEPGRAM/issues"
+  },
+  "homepage": "https://github.com/AnirudhEyyani/LHD-DAY3-DEEPGRAM#readme",
+  "dependencies": {
+    "@deepgram/sdk": "^1.1.0"
+  }
+}
